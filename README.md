@@ -1,4 +1,5 @@
 Hello Future! 👋🏽
+
 I'm Msingathi, building the bridge between technology and business impact.
 Currently positioning myself for Product Management roles, leveraging my expertise in crypto, fintech, and AI to drive innovation. I believe in the power of emerging technologies to solve real-world problems and create meaningful user experiences.
 🧠 What I'm Passionate About

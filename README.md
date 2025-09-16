@@ -1,11 +1,11 @@
 Hello Future! 👋🏽
 
-I'm Msingathi, building the bridge between technology and business impact.
-Currently positioning myself for Product Management roles, leveraging my expertise in crypto, fintech, and AI to drive innovation. I believe in the power of emerging technologies to solve real-world problems and create meaningful user experiences.
-🧠 What I'm Passionate About
-Blockchain & DeFi: Deep diving into platforms like Solana and Hedera, exploring how their unique architectures solve scalability and cost challenges. Fascinated by Solana's Account Model and NFT ecosystem, while intrigued by Hedera's enterprise-grade consensus mechanism backed by tech giants. Always curious about what separates platforms that gain traction from those with strong fundamentals but slower adoption.
-Product Strategy: Translating complex technical concepts into user-centric solutions, bridging the gap between engineering possibilities and market needs.
-Emerging Tech: Staying ahead of AI trends and fintech innovations that reshape how we interact with technology and money.
+I'm Msingathi aka Msi, passionate about solving real-world payments and financial infrastructure challenges through emerging technologies.
+As a Test DevOps Engineer with automation expertise and recent experience in Linux and monitoring tools (Prometheus, Grafana), I combine technical depth with user-centered product thinking developed through 5+ years of freelance user research on platforms like UserTesting, Dscout, and Respondent.io.
+🧠 What Drives Me
+Crypto & Payments Innovation ℹ️: Deep diving into how blockchain platforms like Solana and Hedera are revolutionizing financial infrastructure. Through user research and competitive analysis, I've identified key adoption barriers in crypto UX and built test prototypes exploring solutions. Fascinated by Solana's Account Model and its implications for payment systems, while exploring Hedera's enterprise-grade consensus for institutional fintech applications.
+User-Centered Technical Excellence 💻: Bridging the gap between robust testing frameworks, infrastructure monitoring, and the scalable systems needed for next-generation financial applications. My freelance user research work has taught me that technical excellence means nothing without product-market fit—products must serve consumers, not just engineering teams.
+Market-Driven Innovation 📈: Through competitive analysis across diverse products since 2019, I've seen how market competition drives meaningful product improvements. I actively contribute to crypto discussions in professional spaces, always with an eye toward practical implementation and user adoption.
 <p align="center">
   <a href="https://github.com/MsingathiM?tab=followers">
     <img src="https://img.shields.io/github/followers/MsingathiM?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />

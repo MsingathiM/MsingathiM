@@ -2,10 +2,17 @@ Hello Future! 👋🏽
 
 I'm Msingathi aka Msi, passionate about solving real-world payments and financial infrastructure challenges through emerging technologies.
 As a Test DevOps Engineer with automation expertise and recent experience in Linux and monitoring tools (Prometheus, Grafana), I combine technical depth with user-centered product thinking developed through 5+ years of freelance user research on platforms like UserTesting, Dscout, and Respondent.io.
+
 🧠 What Drives Me
 Crypto & Payments Innovation ℹ️: Deep diving into how blockchain platforms like Solana and Hedera are revolutionizing financial infrastructure. Through user research and competitive analysis, I've identified key adoption barriers in crypto UX and built test prototypes exploring solutions. Fascinated by Solana's Account Model and its implications for payment systems, while exploring Hedera's enterprise-grade consensus for institutional fintech applications.
+
 User-Centered Technical Excellence 💻: Bridging the gap between robust testing frameworks, infrastructure monitoring, and the scalable systems needed for next-generation financial applications. My freelance user research work has taught me that technical excellence means nothing without product-market fit—products must serve consumers, not just engineering teams.
+
 Market-Driven Innovation 📈: Through competitive analysis across diverse products since 2019, I've seen how market competition drives meaningful product improvements. I actively contribute to crypto discussions in professional spaces, always with an eye toward practical implementation and user adoption.
+
+You can also find some of my writings here:
+[Medium Blog](https://medium.com/@msimajola)
+[Hasnode Blog](https://msi.hashnode.dev/)
 <p align="center">
   <a href="https://github.com/MsingathiM?tab=followers">
     <img src="https://img.shields.io/github/followers/MsingathiM?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />

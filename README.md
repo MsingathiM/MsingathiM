@@ -1,6 +1,6 @@
 **Hello World!** 👋🏽
 
-I'm Msingathi aka Msi, if you want to get in touch, you can find me [here](https://msimajola.netlify.app/)
+I'm Msingathi aka Msi,
 
 </n><u>**What Drives Me**</u></n>
 
@@ -34,5 +34,7 @@ I'm Msingathi aka Msi, if you want to get in touch, you can find me [here](https
 [X] Exploring Web3 user experience challenges
 
 [X] Building at the intersection of AI and financial services
+
+if you want to get in touch, you can find me [here](https://msimajola.netlify.app/)
 
 <p align="center">Building tomorrow, today!</p>

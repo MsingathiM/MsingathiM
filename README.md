@@ -20,6 +20,9 @@ I'm Msingathi aka Msi, I'm a Technical Product Manager with 10+ years bridging e
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ <a href="https://x.com/Mseerah">
+    <img src="https://img.shields.io/twitter/follow/Mseerah" alt="X (formerly Twitter) Follow" />
+</a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MsingathiM&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <br />

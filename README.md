@@ -1,6 +1,6 @@
 **Hello World!** 👋🏽
 
-I'm Msingathi aka Msi,
+I'm Msingathi aka Msi, I'm a Technical Product Manager with 10+ years bridging engineering execution and business strategy. I build blockchain products from 0→1—taking concepts through user research, PRD creation, technical implementation, and live deployment on Solana, Hedera, and Tron networks.
 
 </n><u>**What Drives Me**</u></n>
 

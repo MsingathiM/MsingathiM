@@ -1,7 +1,6 @@
 **Hello World!** 👋🏽
 
-I'm Msingathi aka Msi, passionate about solving real-world payments and financial infrastructure challenges through emerging technologies.
-As a Test DevOps Engineer with automation expertise and recent experience in Linux and monitoring tools (Prometheus, Grafana), I combine technical depth with user-centered product thinking developed through 5+ years of freelance user research on platforms like UserTesting, Dscout, and Respondent.io.
+I'm Msingathi aka Msi, if you want to get in touch, you can find me [here](https://msimajola.netlify.app/)
 
 </n><u>**What Drives Me**</u></n>
 

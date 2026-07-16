@@ -2,17 +2,17 @@
 
 I'm Msingathi aka Msi — a Technical Product Manager working in payments and stablecoin infrastructure. I build cross-border payment rails for the markets everyone else skips.
 
-I'm the founder of **[SwapEazi](https://swapeazi.io)**, a stablecoin payment rail for the SADC region, building in South Africa, with licensed partners being onboarded to handle the regulated fiat legs. Wise built for Europe. LemFi built for West Africa. Nobody built for SADC. I am.
+I'm the founder of **[SwapEazi](https://swapeazi.io)**, a stablecoin payment rail for Southern Africa. Wise built for Europe. LemFi built for West Africa. Nobody built for SADC. I am.
 
 Ten years in regulated payments across Nedbank, Absa, Investec, and NS, including core-banking rollouts in five SADC markets. I write specs engineers trust, spot delivery risk early, and close the gap between product and engineering.
 
 ## What Drives Me
 
-* **Payments & Stablecoin Infrastructure**: Building the rails that move money through corridors the big players routed around. SwapEazi routes stablecoins across multiple EVM networks and Solana, plus the Tron USDT corridor that most aggregators won't touch — the one that actually matters for SADC remittances.
+* **Payments & Stablecoin Infrastructure**: Building rails that move money through corridors the big players routed around. The interesting problems in African payments aren't the ones with obvious answers — they're the ones nobody bothered to solve, for reasons that stop making sense once you've actually worked inside the regulated stack.
 
-* **Agentic Payments**: SwapEazi ships agentic payment endpoints (**x402** and **MCP**), so autonomous agents can quote, pay, and settle across African corridors — non-custodial, with regulated fiat settlement routed through licensed partners as they come online.
+* **Agentic Payments**: Money movement is being rebuilt for a world where software, not just people, initiates a payment. I'm building for that shift where it's hardest — and where it'll matter most.
 
-* **DeFi & Stablecoin Analysis**: I track new stablecoin issuances and the protocols behind yield and lending. That analysis grounds the design choices I make when building rails that move stablecoins safely across borders.
+* **DeFi & Stablecoin Analysis**: I track new stablecoin issuances and the protocols behind yield and lending. That analysis grounds how I think about moving value across borders safely.
 
 * **User-Centered Technical Excellence**: Robust testing, infrastructure monitoring, and scalable systems mean nothing without product-market fit. Products must serve users, not just engineering teams — freelance user research since 2019 taught me that the hard way.
 
@@ -37,13 +37,6 @@ Ten years in regulated payments across Nedbank, Absa, Investec, and NS, includin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsingathiM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-## Current Focus
-
-- [x] Scaling SwapEazi into a live SADC payment rail
-- [x] Onboarding licensed partners for the regulated fiat legs
-- [x] Agentic payment endpoints (x402 + MCP) for African corridors
-- [x] Tracking new stablecoin issuances and DeFi yield/lending protocols
-
-If you want to get in touch, you can find me [here](https://msimajola.netlify.app/).
+If you're building in payments, stablecoins, or African corridors — or you're just curious what SwapEazi is up to — you can find me [here](https://msimajola.netlify.app/).
 
 <p align="center">Building tomorrow, today!</p>

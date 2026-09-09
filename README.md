@@ -2,7 +2,7 @@
 
 I'm Msingathi aka Msi — a Technical Product Manager building payments and stablecoin infrastructure for the markets everyone else skips.
 
-I'm the founder of **[SwapEazi](https://swapeazi.io)**, helping Southern African businesses pay their South African suppliers on the payment routes that actually work. Wise built for Europe. LemFi built for West Africa. Southern Africa's trade corridors are still underserved — that's the gap I'm building for.
+I'm the founder of **[SwapEazi](https://swapeazi.io)**, cross-border payments into South Africa — moving money across borders for Southern African businesses buying from South African suppliers, on the payment routes that actually work. Wise built for Europe. LemFi built for West Africa. Southern Africa's trade corridors are still underserved — that's the gap I'm building for.
 
 Ten years in regulated payments across Nedbank, Absa, Investec, and NS, including core-banking rollouts in five SADC markets. I write specs engineers trust, spot delivery risk early, and close the gap between product and engineering.
 
